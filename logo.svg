@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1024 1024">
+  <!-- Generator: Adobe Illustrator 29.0.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 186)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect width="1024" height="1024" rx="180.22" ry="180.22"/>
+  <path class="st0" d="M121.27,577.38c0-215.79,174.93-390.73,390.73-390.73s390.73,174.93,390.73,390.73"/>
+  <path d="M217.5,577.38c0-162.37,131.85-294,294.5-294s294.5,131.63,294.5,294"/>
+  <path class="st0" d="M313.5,577.38c0-109.35,88.87-198,198.5-198s198.5,88.65,198.5,198"/>
+  <path d="M409.5,580.38c0-56.33,45.89-102,102.5-102s102.5,45.67,102.5,102"/>
+  <rect x="34.21" y="551.92" width="695.58" height="156.96" transform="translate(273.71 -98.71) rotate(22.77)"/>
+  <rect x="294.21" y="551.52" width="695.58" height="156.96" transform="translate(1477.78 962.48) rotate(157.23)"/>
+  <rect class="st0" x="80.44" y="598.36" width="447.63" height="96.31" transform="translate(273.88 -67.37) rotate(22.77)"/>
+  <rect class="st0" x="493.67" y="598.36" width="447.63" height="96.31" transform="translate(1629.25 965.01) rotate(157.23)"/>
+  <polygon class="st0" points="492 777.52 512 681.47 529.74 777.52 492 777.52"/>
+</svg>
